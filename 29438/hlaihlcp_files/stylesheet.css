@@ -1,0 +1,190 @@
+.book-name {
+    color: #8A2BE2;
+    font-family: "楷体", sans-serif
+    }
+.calibre {
+    display: block
+    }
+.calibre1 {
+    color: red
+    }
+.calibre2 {
+    font-weight: bold
+    }
+.calibre3 {
+    line-height: 1.2;
+    padding-bottom: 0.2em;
+    padding-left: 0.4em;
+    padding-right: 2em;
+    padding-top: 0.4em
+    }
+.calibre4 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre5 {
+    line-height: 1.2
+    }
+.calibre6 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre7 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em
+    }
+.calibre8 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre9 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre10 {
+    display: list-item
+    }
+.calibre11 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.cover {
+    display: block;
+    duokan-text-indent: 0;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0;
+    width: 100%
+    }
+.cover1 {
+    box-shadow: 3px 3px 3px #535353;
+    height: auto;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    width: 40%
+    }
+.fs {
+    display: block;
+    font-family: "DK-XIHEITI", "黑体", sans-serif;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.introduction {
+    background-color: white;
+    border-bottom-color: rgba(83, 83, 83, 0.5);
+    border-bottom-style: double;
+    border-bottom-width: 0.4em;
+    border-left-color: rgba(83, 83, 83, 0.5);
+    border-left-style: double;
+    border-left-width: 0.4em;
+    border-right-color: rgba(83, 83, 83, 0.5);
+    border-right-style: double;
+    border-right-width: 0.4em;
+    border-top-color: rgba(83, 83, 83, 0.5);
+    border-top-style: double;
+    border-top-width: 0.4em;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 5%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 5%
+    }
+.introduction-title {
+    color: black;
+    display: block;
+    duokan-text-indent: 0;
+    font-family: "DK-XIHEITI", "黑体", sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: left;
+    text-indent: 0
+    }
+.line {
+    border-bottom-color: currentColor;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: inset;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: inset;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: inset;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em
+    }
+.vertitle_ {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.vertxt {
+    display: block;
+    duokan-text-indent: 0;
+    font-family: "DK-FANGSONG", 仿宋, "fs", "fangsong", sans-serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0
+    }
+.vertxt1 {
+    display: block;
+    duokan-text-indent: 0;
+    font-family: "DK-XIHEITI", "黑体", sans-serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left;
+    text-indent: 0
+    }
